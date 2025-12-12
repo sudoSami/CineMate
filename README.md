@@ -2,7 +2,7 @@
 
 A modern, responsive web application for discovering movies, built with React and Vite. Browse trending films, search for your favorites, and explore detailed information—all in one clean interface.
 
-[**Live Demo**](https://sudoSami.github.io/CineMate/#/) • [Report Bug](https://github.com/sudoSami/CineMate/issues)
+[**Live Demo**](https://sudoSami.github.io/CineMate/#/)
 
 ## ✨ Features
 
